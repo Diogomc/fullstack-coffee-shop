@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|c:\\users\\diogo\\desktop\\coffeeshop\\apicoffeeshop\\apicoffeeshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|solutionrelative:apicoffeeshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|c:\\users\\diogo\\desktop\\coffeeshop\\apicoffeeshop\\apicoffeeshop\\migrations\\20250321004913_makecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|solutionrelative:apicoffeeshop\\migrations\\20250321004913_makecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|c:\\users\\diogo\\desktop\\coffeeshop\\apicoffeeshop\\apicoffeeshop\\migrations\\20250321010048_makeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE555BA4-8CF5-4BCF-AA60-801A93692714}|APICoffeeShop\\APICoffeeShop.csproj|solutionrelative:apicoffeeshop\\migrations\\20250321010048_makeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "APICoffeeShop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "APICoffeeShop\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:57:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250321004913_MakeCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Migrations\\20250321004913_MakeCategory.cs",
+              "RelativeDocumentMoniker": "APICoffeeShop\\Migrations\\20250321004913_MakeCategory.cs",
+              "ToolTip": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Migrations\\20250321004913_MakeCategory.cs",
+              "RelativeToolTip": "APICoffeeShop\\Migrations\\20250321004913_MakeCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:24:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250321010048_MakeProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Migrations\\20250321010048_MakeProduct.cs",
+              "RelativeDocumentMoniker": "APICoffeeShop\\Migrations\\20250321010048_MakeProduct.cs",
+              "ToolTip": "C:\\Users\\Diogo\\Desktop\\coffeeShop\\APICoffeeShop\\APICoffeeShop\\Migrations\\20250321010048_MakeProduct.cs",
+              "RelativeToolTip": "APICoffeeShop\\Migrations\\20250321010048_MakeProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:01:35.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
